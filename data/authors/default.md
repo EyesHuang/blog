@@ -1,16 +1,15 @@
 ---
-name: Tails Azimuth
+name: YongTeng Huang
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Web Developer
+#company: Innova Solutions
+email: charliehuang1017@gmail.com
+linkedin: https://www.linkedin.com/in/yongteng-huang/
+github: https://github.com/EyesHuang
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Hello and welcome to my blog! My name is YongTeng Huang, and I am a highly skilled software engineer with over three years of experience in web development and DevOps. I am proficient in the Golang ecosystem and have extensive experience with a variety of AWS services. My expertise lies in leading projects and teams to improve workflow efficiency and achieve success.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+I am passionate about learning and applying the latest technologies to create innovative solutions for today's challenges.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+On this blog, I will share my insights, experiences, and projects related to web development, DevOps, and other exciting technology topics. I look forward to engaging with you and learning together as we explore the ever-evolving world of technology!
