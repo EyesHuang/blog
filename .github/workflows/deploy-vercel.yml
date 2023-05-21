@@ -22,8 +22,8 @@ jobs:
       - name: Run tests
         run: npm test
 
+      - name: Install Vercel CLI
+        run: npm i -g vercel
+
       - name: Deploy to Vercel
-        uses: nwtgck/actions-vercel@v1
-        with:
-          vercel-token: ${{ secrets.VERCEL_TOKEN }}
-          vercel-args: '--prod'
+        run: vercel --token ${{ secrets.VERCEL_TOKEN }} --prod
