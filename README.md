@@ -8,13 +8,14 @@ This blog is a platform where I share my insights, experiences, and thoughts on 
 
 ## Technology Stack
 
-This blog was built using a combination of powerful technologies:
+This blog was built using the following framework and libraries:
 
 - [Next.js](https://nextjs.org/), a React-based framework that enables server-side rendering and generating static websites for React based web applications.
 - [Tailwind CSS](https://tailwindcss.com/), a utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.
 - [tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog), a template that provided a solid foundation for building this blog.
 
-The blog is hosted on [Vercel](https://vercel.com/), a deployment and collaboration platform for frontend developers.
+Hosting services for the blog are provided by [Vercel](https://vercel.com/).  
+Updates, including new posts, are deployed to Vercel via GitHub Action.
 
 ## Visit the Blog
 
